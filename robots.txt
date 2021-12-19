@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://seanmaaa.github.io/seanmaaa.github.io/sitemap.xml
